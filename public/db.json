@@ -1,0 +1,484 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Developer",
+      "company": "Tech Solutions Inc.",
+      "location": "Tokyo",
+      "description": "Design and develop software solutions for clients, collaborate with teams to deliver high-quality products.",
+      "date_posted": "2024-04-01"
+    },
+    {
+      "id": 2,
+      "title": "Marketing Manager",
+      "company": "Global Marketing Agency",
+      "location": "Osaka",
+      "description": "Lead marketing campaigns, analyze market trends, and develop strategies to drive business growth.",
+      "date_posted": "2024-04-02"
+    },
+    {
+      "id": 3,
+      "title": "Graphic Designer",
+      "company": "Creative Design Studio",
+      "location": "Kyoto",
+      "description": "Create visually appealing graphics and designs for various projects, collaborate with clients and team members.",
+      "date_posted": "2024-04-03"
+    },
+    {
+      "id": 4,
+      "title": "Sales Representative",
+      "company": "Sales Force Co.",
+      "location": "Nagoya",
+      "description": "Promote and sell company products to prospective clients, maintain client relationships, and achieve sales targets.",
+      "date_posted": "2024-04-04"
+    },
+    {
+      "id": 5,
+      "title": "Financial Analyst",
+      "company": "Finance Consulting Group",
+      "location": "Sapporo",
+      "description": "Analyze financial data, prepare reports, and provide insights to support strategic decision-making.",
+      "date_posted": "2024-04-05"
+    },
+    {
+      "id": 6,
+      "title": "HR Manager",
+      "company": "Human Resources Inc.",
+      "location": "Fukuoka",
+      "description": "Manage human resources activities including recruitment, training, and performance evaluation.",
+      "date_posted": "2024-04-06"
+    },
+    {
+      "id": 7,
+      "title": "Web Developer",
+      "company": "WebTech Solutions",
+      "location": "Kobe",
+      "description": "Develop and maintain web applications, collaborate with cross-functional teams to deliver projects on time.",
+      "date_posted": "2024-04-07"
+    },
+    {
+      "id": 8,
+      "title": "Accountant",
+      "company": "Financial Services Ltd.",
+      "location": "Yokohama",
+      "description": "Manage financial records, prepare statements, and ensure compliance with accounting standards and regulations.",
+      "date_posted": "2024-04-08"
+    },
+    {
+      "id": 9,
+      "title": "Content Writer",
+      "company": "Digital Marketing Agency",
+      "location": "Sendai",
+      "description": "Create engaging content for online platforms, collaborate with marketing team to develop content strategies.",
+      "date_posted": "2024-04-09"
+    },
+    {
+      "id": 10,
+      "title": "Project Manager",
+      "company": "Project Management Solutions",
+      "location": "Hiroshima",
+      "description": "Plan and oversee projects, manage resources, timelines, and budgets to ensure successful project delivery.",
+      "date_posted": "2024-04-10"
+    },
+    {
+      "id": 11,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "Tokyo",
+      "description": "Developing and maintaining software applications for TechCorp's platforms.",
+      "date_posted": "2024-04-11"
+    },
+    {
+      "id": 12,
+      "title": "UX/UI Designer",
+      "company": "Design Innovations Co.",
+      "location": "Osaka",
+      "description": "Design intuitive user interfaces and engaging user experiences for digital products and platforms.",
+      "date_posted": "2024-04-12"
+    },
+    {
+      "id": 13,
+      "title": "Business Analyst",
+      "company": "Business Solutions Ltd.",
+      "location": "Kyoto",
+      "description": "Analyze business processes, identify opportunities for improvement, and recommend solutions to enhance efficiency.",
+      "date_posted": "2024-04-13"
+    },
+    {
+      "id": 14,
+      "title": "Customer Support Specialist",
+      "company": "SupportTech Inc.",
+      "location": "Nagoya",
+      "description": "Provide technical assistance and support to customers, troubleshoot issues, and ensure customer satisfaction.",
+      "date_posted": "2024-04-14"
+    },
+    {
+      "id": 15,
+      "title": "Digital Marketing Specialist",
+      "company": "Digital Solutions Agency",
+      "location": "Sapporo",
+      "description": "Plan and execute digital marketing campaigns, analyze performance metrics, and optimize strategies for maximum ROI.",
+      "date_posted": "2024-04-15"
+    },
+    {
+      "id": 16,
+      "title": "HR Assistant",
+      "company": "HR Solutions Co.",
+      "location": "Fukuoka",
+      "description": "Support HR activities such as recruitment, onboarding, and employee relations.",
+      "date_posted": "2024-04-16"
+    },
+    {
+      "id": 17,
+      "title": "Frontend Developer",
+      "company": "WebTech Solutions",
+      "location": "Kobe",
+      "description": "Develop user-facing features and interfaces for web applications, ensure responsiveness and scalability.",
+      "date_posted": "2024-04-17"
+    },
+    {
+      "id": 18,
+      "title": "Financial Planner",
+      "company": "Financial Advisors Group",
+      "location": "Yokohama",
+      "description": "Provide financial planning services, analyze clients' financial situations, and recommend appropriate investment strategies.",
+      "date_posted": "2024-04-18"
+    },
+    {
+      "id": 19,
+      "title": "Copywriter",
+      "company": "Advertising Agency",
+      "location": "Sendai",
+      "description": "Write persuasive copy for advertisements, marketing materials, and promotional campaigns.",
+      "date_posted": "2024-04-19"
+    },
+    {
+      "id": 20,
+      "title": "Construction Project Manager",
+      "company": "Construction Services Ltd.",
+      "location": "Hiroshima",
+      "description": "Plan and oversee construction projects, manage resources, budgets, and timelines to ensure successful completion.",
+      "date_posted": "2024-04-20"
+    },
+    {
+      "id": 21,
+      "title": "Data Analyst",
+      "company": "Data Insights Co.",
+      "location": "Tokyo",
+      "description": "Collect, analyze, and interpret data to provide insights and support decision-making processes.",
+      "date_posted": "2024-04-21"
+    },
+    {
+      "id": 22,
+      "title": "Event Coordinator",
+      "company": "Event Management Agency",
+      "location": "Osaka",
+      "description": "Plan and coordinate events, manage logistics, vendors, and ensure successful execution.",
+      "date_posted": "2024-04-22"
+    },
+    {
+      "id": 23,
+      "title": "UI Designer",
+      "company": "Digital Design Studio",
+      "location": "Kyoto",
+      "description": "Design user interfaces for digital products, create wireframes, and collaborate with development teams.",
+      "date_posted": "2024-04-23"
+    },
+    {
+      "id": 24,
+      "title": "Sales Manager",
+      "company": "SalesForce Co.",
+      "location": "Nagoya",
+      "description": "Lead sales team, set sales targets, develop strategies, and monitor performance to achieve revenue goals.",
+      "date_posted": "2024-04-24"
+    },
+    {
+      "id": 25,
+      "title": "Financial Analyst",
+      "company": "Finance Consulting Group",
+      "location": "Sapporo",
+      "description": "Analyze financial data, prepare reports, and provide insights to support strategic decision-making.",
+      "date_posted": "2024-04-25"
+    },
+    {
+      "id": 26,
+      "title": "HR Coordinator",
+      "company": "Human Resources Inc.",
+      "location": "Fukuoka",
+      "description": "Assist with recruitment, onboarding, and HR administrative tasks to support the HR department.",
+      "date_posted": "2024-04-26"
+    },
+    {
+      "id": 27,
+      "title": "Backend Developer",
+      "company": "WebTech Solutions",
+      "location": "Kobe",
+      "description": "Develop server-side logic, integrate with front-end elements, and ensure high performance and responsiveness.",
+      "date_posted": "2024-04-27"
+    },
+    {
+      "id": 28,
+      "title": "Accounting Manager",
+      "company": "Financial Services Ltd.",
+      "location": "Yokohama",
+      "description": "Oversee accounting activities, supervise staff, and ensure accuracy and compliance with financial regulations.",
+      "date_posted": "2024-04-28"
+    },
+    {
+      "id": 29,
+      "title": "Content Marketing Specialist",
+      "company": "Digital Marketing Agency",
+      "location": "Sendai",
+      "description": "Develop content marketing strategies, create compelling content, and manage content distribution channels.",
+      "date_posted": "2024-04-29"
+    },
+    {
+      "id": 30,
+      "title": "Product Manager",
+      "company": "Product Development Inc.",
+      "location": "Hiroshima",
+      "description": "Lead product development efforts, define product roadmap, and collaborate with cross-functional teams.",
+      "date_posted": "2024-04-30"
+    },
+    {
+      "id": 31,
+      "title": "Software Engineer",
+      "company": "Tech Innovations Co.",
+      "location": "Tokyo",
+      "description": "Design, develop, and test software solutions, troubleshoot issues, and ensure code quality.",
+      "date_posted": "2024-05-01"
+    },
+    {
+      "id": 32,
+      "title": "Marketing Specialist",
+      "company": "Marketing Solutions Agency",
+      "location": "Osaka",
+      "description": "Develop and implement marketing strategies, conduct market research, and analyze campaign performance.",
+      "date_posted": "2024-05-02"
+    },
+    {
+      "id": 33,
+      "title": "UX Researcher",
+      "company": "User Experience Lab",
+      "location": "Kyoto",
+      "description": "Conduct user research, analyze user feedback, and collaborate with designers and developers to enhance user experience.",
+      "date_posted": "2024-05-03"
+    },
+    {
+      "id": 34,
+      "title": "Sales Representative",
+      "company": "SalesTech Inc.",
+      "location": "Nagoya",
+      "description": "Prospect and qualify leads, negotiate contracts, and maintain client relationships to drive sales revenue.",
+      "date_posted": "2024-05-04"
+    },
+    {
+      "id": 35,
+      "title": "Financial Planner",
+      "company": "Wealth Management Group",
+      "location": "Sapporo",
+      "description": "Provide personalized financial planning services, assess clients' financial goals, and recommend investment strategies.",
+      "date_posted": "2024-05-05"
+    },
+    {
+      "id": 36,
+      "title": "HR Generalist",
+      "company": "HR Solutions Co.",
+      "location": "Fukuoka",
+      "description": "Handle various HR functions including recruitment, employee relations, and performance management.",
+      "date_posted": "2024-05-06"
+    },
+    {
+      "id": 37,
+      "title": "Full Stack Developer",
+      "company": "WebTech Solutions",
+      "location": "Kobe",
+      "description": "Develop both client-side and server-side components of web applications, ensuring seamless integration.",
+      "date_posted": "2024-05-07"
+    },
+    {
+      "id": 38,
+      "title": "Financial Analyst",
+      "company": "Finance Insights Group",
+      "location": "Yokohama",
+      "description": "Analyze financial data, prepare forecasts, and provide insights to support strategic decision-making.",
+      "date_posted": "2024-05-08"
+    },
+    {
+      "id": 39,
+      "title": "Content Writer",
+      "company": "Content Creations Inc.",
+      "location": "Sendai",
+      "description": "Produce engaging and informative content for websites, blogs, and social media platforms.",
+      "date_posted": "2024-05-09"
+    },
+    {
+      "id": 40,
+      "title": "Project Coordinator",
+      "company": "Project Management Solutions",
+      "location": "Hiroshima",
+      "description": "Coordinate project activities, track progress, and communicate with stakeholders to ensure project success.",
+      "date_posted": "2024-05-10"
+    },
+    {
+      "id": 41,
+      "title": "Software Tester",
+      "company": "Quality Assurance Inc.",
+      "location": "Tokyo",
+      "description": "Develop and execute software test plans, identify defects, and ensure product quality.",
+      "date_posted": "2024-05-11"
+    },
+    {
+      "id": 42,
+      "title": "Digital Marketing Manager",
+      "company": "Digital Strategies Agency",
+      "location": "Osaka",
+      "description": "Develop and implement digital marketing strategies, manage campaigns, and optimize performance.",
+      "date_posted": "2024-05-12"
+    },
+    {
+      "id": 43,
+      "title": "UX Designer",
+      "company": "UX Innovations Co.",
+      "location": "Kyoto",
+      "description": "Create user-centered designs for digital products, conduct user research, and iterate based on feedback.",
+      "date_posted": "2024-05-13"
+    },
+    {
+      "id": 44,
+      "title": "Sales Associate",
+      "company": "Sales Solutions Ltd.",
+      "location": "Nagoya",
+      "description": "Assist customers with product inquiries, process orders, and provide excellent customer service.",
+      "date_posted": "2024-05-14"
+    },
+    {
+      "id": 45,
+      "title": "Financial Advisor",
+      "company": "Financial Advisory Services",
+      "location": "Sapporo",
+      "description": "Provide financial planning advice, assess clients' financial situations, and recommend investment options.",
+      "date_posted": "2024-05-15"
+    },
+    {
+      "id": 46,
+      "title": "Administrative Assistant",
+      "company": "Admin Solutions Inc.",
+      "location": "Fukuoka",
+      "description": "Provide administrative support to ensure efficient office operations, including scheduling, correspondence, and record-keeping.",
+      "date_posted": "2024-05-16"
+    },
+    {
+      "id": 47,
+      "title": "Frontend Developer",
+      "company": "TechFront Solutions",
+      "location": "Kobe",
+      "description": "Develop and implement user interfaces for web applications, ensuring high performance and responsiveness.",
+      "date_posted": "2024-05-17"
+    },
+    {
+      "id": 48,
+      "title": "Accounting Clerk",
+      "company": "Financial Services Ltd.",
+      "location": "Yokohama",
+      "description": "Assist with financial record-keeping, data entry, and administrative tasks in the accounting department.",
+      "date_posted": "2024-05-18"
+    },
+    {
+      "id": 49,
+      "title": "Social Media Manager",
+      "company": "Social Media Solutions Agency",
+      "location": "Sendai",
+      "description": "Develop social media strategies, create engaging content, and manage social media accounts for clients.",
+      "date_posted": "2024-05-19"
+    },
+    {
+      "id": 50,
+      "title": "Product Marketing Manager",
+      "company": "Product Marketing Solutions",
+      "location": "Hiroshima",
+      "description": "Develop product marketing strategies, launch campaigns, and drive product adoption and growth.",
+      "date_posted": "2024-05-20"
+    },
+    {
+      "id": 51,
+      "title": "Human Resources Manager",
+      "company": "HR Solutions Co.",
+      "location": "Tokyo",
+      "description": "Lead HR initiatives, oversee recruitment, employee relations, and performance management.",
+      "date_posted": "2024-05-21"
+    },
+    {
+      "id": 52,
+      "title": "Software Architect",
+      "company": "Tech Solutions Inc.",
+      "location": "Osaka",
+      "description": "Design software architecture, define technical requirements, and provide guidance to development teams.",
+      "date_posted": "2024-05-22"
+    },
+    {
+      "id": 53,
+      "title": "Content Editor",
+      "company": "Content Creations Inc.",
+      "location": "Kyoto",
+      "description": "Edit and proofread content for accuracy, clarity, and consistency, ensuring adherence to brand guidelines.",
+      "date_posted": "2024-05-23"
+    },
+    {
+      "id": 54,
+      "title": "Business Development Manager",
+      "company": "Business Growth Solutions",
+      "location": "Nagoya",
+      "description": "Identify new business opportunities, develop strategic partnerships, and drive business growth.",
+      "date_posted": "2024-05-24"
+    },
+    {
+      "id": 55,
+      "title": "Investment Analyst",
+      "company": "Investment Consulting Group",
+      "location": "Sapporo",
+      "description": "Analyze investment opportunities, conduct financial modeling, and provide investment recommendations.",
+      "date_posted": "2024-05-25"
+    },
+    {
+      "id": 56,
+      "title": "Executive Assistant",
+      "company": "Executive Solutions Inc.",
+      "location": "Fukuoka",
+      "description": "Provide high-level administrative support to executives, manage schedules, and coordinate meetings and travel.",
+      "date_posted": "2024-05-26"
+    },
+    {
+      "id": 57,
+      "title": "UX/UI Designer",
+      "company": "UX Innovations Co.",
+      "location": "Kobe",
+      "description": "Design intuitive user interfaces and engaging user experiences for digital products and platforms.",
+      "date_posted": "2024-05-27"
+    },
+    {
+      "id": 58,
+      "title": "Account Manager",
+      "company": "Client Services Ltd.",
+      "location": "Yokohama",
+      "description": "Build and maintain relationships with clients, understand their needs, and ensure client satisfaction.",
+      "date_posted": "2024-05-28"
+    },
+    {
+      "id": 59,
+      "title": "SEO Specialist",
+      "company": "Digital Marketing Agency",
+      "location": "Sendai",
+      "description": "Optimize website content, conduct keyword research, and implement SEO strategies to improve search engine rankings.",
+      "date_posted": "2024-05-29"
+    },
+    {
+      "id": 60,
+      "title": "Project Engineer",
+      "company": "Engineering Solutions Inc.",
+      "location": "Hiroshima",
+      "description": "Manage engineering projects, coordinate resources, and ensure timely and cost-effective project delivery.",
+      "date_posted": "2024-05-30"
+    }
+  ]
+}
